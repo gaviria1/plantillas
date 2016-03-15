@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "dgstorage1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "gaviria1"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "soporte2010"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "dg1503"
     }
   }
 }
